@@ -1,0 +1,34 @@
+[
+    {
+        "uuid": "40f3f796-438a-4ef9-8cf7-329c6b9eb44a",
+        "date": "22.06.2003",
+        "category": "расходы",
+        "amount": 76,
+        "description": "щлфщ",
+        "user_id": "0179befe0458f9aeb5b74b20634a51fc8966f59e21348ab21e8d3271b68f4ceb"
+    },
+    {
+        "uuid": "ec3ea5ed-35ae-47f8-8d2f-6254d792ed85",
+        "date": "22.06.2003",
+        "category": "доходы",
+        "amount": 50,
+        "description": "hjk",
+        "user_id": "0179befe0458f9aeb5b74b20634a51fc8966f59e21348ab21e8d3271b68f4ceb"
+    },
+    {
+        "uuid": "392ae025-14be-49e4-914c-271306b09f53",
+        "date": "22.06.2003",
+        "category": "доходы",
+        "amount": 100,
+        "description": "hjkl",
+        "user_id": "0179befe0458f9aeb5b74b20634a51fc8966f59e21348ab21e8d3271b68f4ceb"
+    },
+    {
+        "uuid": "0410f027-e94d-437a-b56f-5263a76a6b43",
+        "date": "22.06.2003",
+        "category": "расходы",
+        "amount": 100,
+        "description": "pj",
+        "user_id": null
+    }
+]
